@@ -14,8 +14,8 @@ Repeat last command
 ```
 $ cp hosts hosts.old
 -- results in access denied
-sudo !!
-$ -- !! repeats the action
+$ sudo !!
+-- !! repeats the action
 
 ```
 
