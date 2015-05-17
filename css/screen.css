@@ -12,6 +12,20 @@ h2 {
     margin-top: 1.5em;
 }
 
+pre {
+    display: block;
+    background-color: #f9f9f9;
+    border: #e0e0e0 1px solid;
+    padding: 0.2em 0.4em;
+    margin: 0 1em 0 0;
+    line-height: 1.7em;
+}
+
+pre code {
+    border: none;
+    line-height: 1.7em;
+}
+
 code {
     background-color: #f9f9f9;
     border: #e0e0e0 1px solid;

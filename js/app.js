@@ -29,6 +29,11 @@ app.controller('cards', function($scope) {
             title : 'Vim',
             file : 'keyboard-shortcuts/vim.md',
             tags : 'shell, editors'
+        },
+        {
+            title : 'Bash tips and tricks',
+            file : 'keyboard-shortcuts/bash-tips.md',
+            tags : 'bash, console, ubuntu'
         }
     ];
 
