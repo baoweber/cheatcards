@@ -1,0 +1,20 @@
+{
+  "name": "shortcuts",
+  "version": "0.0.0",
+  "authors": [
+    "Martin Kryl <martin@baoweb.cz>"
+  ],
+  "description": "shortcut page",
+  "main": "shortcut.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15"
+  }
+}
