@@ -33,7 +33,12 @@ app.controller('cards', function($scope) {
         {
             title : 'Bash tips and tricks',
             file : 'keyboard-shortcuts/bash-tips.md',
-            tags : 'bash, console, ubuntu'
+            tags : 'bash, console, ubuntu, linux'
+        },
+        {
+            title : 'Grep',
+            file : 'keyboard-shortcuts/grep.md',
+            tags : 'bash, ubuntu, linux'
         }
     ];
 
